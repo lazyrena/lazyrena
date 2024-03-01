@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tu.
 - 👀 I’m interested in Playing Game.
 - 🌱 I’m currently learning at University of Engineering and Technology, VNU.
-- ⚡ I'm on the way to become greate programming teacher.
+- ⚡ I'm on the way to become great programming teacher.
 
 <br/>
 
